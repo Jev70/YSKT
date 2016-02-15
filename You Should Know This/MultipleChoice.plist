@@ -1,0 +1,1515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What is the largest country? (by land mass)</string>
+			<key>CorrectAnswer</key>
+			<string>Russia</string>
+			<key>Answers</key>
+			<array>
+				<string>China</string>
+				<string>Canada</string>
+				<string>Russia</string>
+				<string>India</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Image</string>
+			<key>Image</key>
+			<string>netherlands.png</string>
+			<key>Question</key>
+			<string>Which country does this flag represent?</string>
+			<key>CorrectAnswer</key>
+			<string>Netherlands</string>
+			<key>Answers</key>
+			<array>
+				<string>Netherlands</string>
+				<string>France</string>
+				<string>Belgium</string>
+				<string>Italy</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What month comes before March?</string>
+			<key>CorrectAnswer</key>
+			<string>February</string>
+			<key>Answers</key>
+			<array>
+				<string>January</string>
+				<string>April</string>
+				<string>July</string>
+				<string>February</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Row</string>
+			<key>Question</key>
+			<string>Autumn comes after winter</string>
+			<key>CorrectAnswer</key>
+			<string>False</string>
+			<key>Answers</key>
+			<array>
+				<string>True</string>
+				<string>False</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What is the capital of North America?</string>
+			<key>CorrectAnswer</key>
+			<string>There isn&apos;t one</string>
+			<key>Answers</key>
+			<array>
+				<string>Washington D.C.</string>
+				<string>Toronto</string>
+				<string>Texas</string>
+				<string>There isn&apos;t one</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Image</string>
+			<key>Image</key>
+			<string>rio.jpg</string>
+			<key>Question</key>
+			<string>Which city is this?</string>
+			<key>CorrectAnswer</key>
+			<string>Rio de Janeiro</string>
+			<key>Answers</key>
+			<array>
+				<string>Los Angeles</string>
+				<string>Rio de Janeiro</string>
+				<string>La Paz</string>
+				<string>Sau Paulo</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Row</string>
+			<key>Question</key>
+			<string>The majority of Russia is in Europe</string>
+			<key>CorrectAnswer</key>
+			<string>True</string>
+			<key>Answers</key>
+			<array>
+				<string>True</string>
+				<string>False</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What is the capital of India?</string>
+			<key>CorrectAnswer</key>
+			<string>New Delhi</string>
+			<key>Answers</key>
+			<array>
+				<string>Delhi</string>
+				<string>Mumbai</string>
+				<string>New Delhi</string>
+				<string>Bollywood</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Row</string>
+			<key>Question</key>
+			<string>Mexico is in South America</string>
+			<key>CorrectAnswer</key>
+			<string>False</string>
+			<key>Answers</key>
+			<array>
+				<string>True</string>
+				<string>False</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>How many continents are there?</string>
+			<key>CorrectAnswer</key>
+			<string>7</string>
+			<key>Answers</key>
+			<array>
+				<string>5</string>
+				<string>8</string>
+				<string>4</string>
+				<string>7</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Row</string>
+			<key>Question</key>
+			<string>Tomato is a Vegetable</string>
+			<key>CorrectAnswer</key>
+			<string>False</string>
+			<key>Answers</key>
+			<array>
+				<string>True</string>
+				<string>False</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>How many weeks are there in a year?</string>
+			<key>CorrectAnswer</key>
+			<string>52</string>
+			<key>Answers</key>
+			<array>
+				<string>52</string>
+				<string>48</string>
+				<string>44</string>
+				<string>62</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What is the most common gas on Earth?</string>
+			<key>CorrectAnswer</key>
+			<string>Nitrogen</string>
+			<key>Answers</key>
+			<array>
+				<string>Nitrogen</string>
+				<string>Carbon Dioxide</string>
+				<string>Argon</string>
+				<string>Oxygen</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What is the main ingredient in hummus?</string>
+			<key>CorrectAnswer</key>
+			<string>Chickpeas</string>
+			<key>Answers</key>
+			<array>
+				<string>Hummus Seeds</string>
+				<string>Avocado</string>
+				<string>Chickpeas</string>
+				<string>Mayonnaise</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Image</string>
+			<key>Image</key>
+			<string>tal_mahaj.jpg</string>
+			<key>Question</key>
+			<string>Which country is this in?</string>
+			<key>CorrectAnswer</key>
+			<string>India</string>
+			<key>Answers</key>
+			<array>
+				<string>India</string>
+				<string>Pakistan</string>
+				<string>China</string>
+				<string>Malaysia</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>How many oceans are there?</string>
+			<key>CorrectAnswer</key>
+			<string>5</string>
+			<key>Answers</key>
+			<array>
+				<string>5</string>
+				<string>7</string>
+				<string>9</string>
+				<string>14</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What language do they speak in Cuba?</string>
+			<key>CorrectAnswer</key>
+			<string>Spanish</string>
+			<key>Answers</key>
+			<array>
+				<string>Cuban</string>
+				<string>French</string>
+				<string>Portugese</string>
+				<string>Spanish</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Row</string>
+			<key>Question</key>
+			<string>Dolphins are Mammals</string>
+			<key>CorrectAnswer</key>
+			<string>True</string>
+			<key>Answers</key>
+			<array>
+				<string>True</string>
+				<string>False</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>How many planets are there officially in our solar system?</string>
+			<key>CorrectAnswer</key>
+			<string>8</string>
+			<key>Answers</key>
+			<array>
+				<string>6</string>
+				<string>8</string>
+				<string>9</string>
+				<string>11</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Row</string>
+			<key>Question</key>
+			<string>Sydney is the capital of Australia</string>
+			<key>CorrectAnswer</key>
+			<string>False</string>
+			<key>Answers</key>
+			<array>
+				<string>True</string>
+				<string>False</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What is the capital of China</string>
+			<key>CorrectAnswer</key>
+			<string>Beijing</string>
+			<key>Answers</key>
+			<array>
+				<string>China Town</string>
+				<string>Beijing</string>
+				<string>Shanghai</string>
+				<string>Shenzen</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What is 5 cubed?</string>
+			<key>CorrectAnswer</key>
+			<string>125</string>
+			<key>Answers</key>
+			<array>
+				<string>125</string>
+				<string>25</string>
+				<string>500</string>
+				<string>15</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>Who invented the world wide web?</string>
+			<key>CorrectAnswer</key>
+			<string>Tim Berners-Lee</string>
+			<key>Answers</key>
+			<array>
+				<string>Steve Jobs</string>
+				<string>Larry Page</string>
+				<string>Tim Berners-Lee</string>
+				<string>Bill Gates</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What is 2 to the power of 5</string>
+			<key>CorrectAnswer</key>
+			<string>32</string>
+			<key>Answers</key>
+			<array>
+				<string>10</string>
+				<string>16</string>
+				<string>32</string>
+				<string>64</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Image</string>
+			<key>Image</key>
+			<string>the_beatles.png</string>
+			<key>Question</key>
+			<string>This band came from which city?</string>
+			<key>CorrectAnswer</key>
+			<string>Liverpool</string>
+			<key>Answers</key>
+			<array>
+				<string>London</string>
+				<string>Liverpool</string>
+				<string>Manchester</string>
+				<string>Leeds</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>Which country was Hitler born in?</string>
+			<key>CorrectAnswer</key>
+			<string>Austria</string>
+			<key>Answers</key>
+			<array>
+				<string>Germany</string>
+				<string>Austria</string>
+				<string>Netherlands</string>
+				<string>Belgium</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>Which country was Arnold Schwarzenegger born in?</string>
+			<key>CorrectAnswer</key>
+			<string>Austria</string>
+			<key>Answers</key>
+			<array>
+				<string>Germany</string>
+				<string>Austria</string>
+				<string>Netherlands</string>
+				<string>Belgium</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Row</string>
+			<key>Question</key>
+			<string>James Bond works for which intelligence agency?</string>
+			<key>CorrectAnswer</key>
+			<string>MI6</string>
+			<key>Answers</key>
+			<array>
+				<string>MI5</string>
+				<string>MI6</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>Which one of these places is the southernmost in the world?</string>
+			<key>CorrectAnswer</key>
+			<string>Antarctica</string>
+			<key>Answers</key>
+			<array>
+				<string>South Africa</string>
+				<string>Arctic</string>
+				<string>Australia</string>
+				<string>Antarctica</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Image</string>
+			<key>Image</key>
+			<string>Graph.png</string>
+			<key>Question</key>
+			<string>What is the value of x?</string>
+			<key>CorrectAnswer</key>
+			<string>5</string>
+			<key>Answers</key>
+			<array>
+				<string>4</string>
+				<string>5</string>
+				<string>6</string>
+				<string>7</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What is the next number in this sequence: 1, 1, 2, 3, 5, _</string>
+			<key>CorrectAnswer</key>
+			<string>8</string>
+			<key>Answers</key>
+			<array>
+				<string>5</string>
+				<string>7</string>
+				<string>8</string>
+				<string>9</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What is the most spoken language in India?</string>
+			<key>CorrectAnswer</key>
+			<string>Hindi</string>
+			<key>Answers</key>
+			<array>
+				<string>Hindi</string>
+				<string>English</string>
+				<string>Indian</string>
+				<string>Himalayan</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Image</string>
+			<key>Image</key>
+			<string>aurora.jpeg</string>
+			<key>Question</key>
+			<string>What is the name for this natural phenomenon?</string>
+			<key>CorrectAnswer</key>
+			<string>Aurora Borealis</string>
+			<key>Answers</key>
+			<array>
+				<string>Aurora Lights</string>
+				<string>Aurora Borealis</string>
+				<string>Aurora Auru</string>
+				<string>None of the above</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What is the correct spelling for the word meaning &apos;to be certain&apos;?</string>
+			<key>CorrectAnswer</key>
+			<string>Definitely</string>
+			<key>Answers</key>
+			<array>
+				<string>Definetely</string>
+				<string>Definitely</string>
+				<string>Defiantly</string>
+				<string>Definately</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What is the largest planet in the solar system?</string>
+			<key>CorrectAnswer</key>
+			<string>Jupiter</string>
+			<key>Answers</key>
+			<array>
+				<string>Uranus</string>
+				<string>Jupiter</string>
+				<string>Mercury</string>
+				<string>Saturn</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>In internet slang, what does &apos;ROFL&apos; commonly stand for?</string>
+			<key>CorrectAnswer</key>
+			<string>Rolling on the floor laughing</string>
+			<key>Answers</key>
+			<array>
+				<string>Ridiculous offer for life</string>
+				<string>Rolling on the floor laughing</string>
+				<string>Rolling on my face laughing</string>
+				<string>Real or forever lying?</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Row</string>
+			<key>Question</key>
+			<string>A whale is warm blooded</string>
+			<key>CorrectAnswer</key>
+			<string>True</string>
+			<key>Answers</key>
+			<array>
+				<string>True</string>
+				<string>False</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Row</string>
+			<key>Question</key>
+			<string>Queen Elizabeth II is the longest reigning British monarch ever</string>
+			<key>CorrectAnswer</key>
+			<string>True</string>
+			<key>Answers</key>
+			<array>
+				<string>True</string>
+				<string>False</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Image</string>
+			<key>Image</key>
+			<string>dog.jpeg</string>
+			<key>Question</key>
+			<string>What type of dog is this?</string>
+			<key>CorrectAnswer</key>
+			<string>Labrador</string>
+			<key>Answers</key>
+			<array>
+				<string>Retriever</string>
+				<string>Labrador</string>
+				<string>Border Collie</string>
+				<string>Hound</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Image</string>
+			<key>Image</key>
+			<string>che.jpeg</string>
+			<key>Question</key>
+			<string>Which country did this man help revolutionise?</string>
+			<key>CorrectAnswer</key>
+			<string>Cuba</string>
+			<key>Answers</key>
+			<array>
+				<string>Ecuador</string>
+				<string>Columbia</string>
+				<string>Argentina</string>
+				<string>Cuba</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What is the name of the bone for the kneecap?</string>
+			<key>CorrectAnswer</key>
+			<string>Patella</string>
+			<key>Answers</key>
+			<array>
+				<string>Ilium</string>
+				<string>Tibia</string>
+				<string>Fibula</string>
+				<string>Patella</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Image</string>
+			<key>Image</key>
+			<string>dalai.jpg</string>
+			<key>Question</key>
+			<string>Who is this man?</string>
+			<key>CorrectAnswer</key>
+			<string>Dalai Lama</string>
+			<key>Answers</key>
+			<array>
+				<string>Amar Das</string>
+				<string>Siddarta Guatarma</string>
+				<string>Abi Da</string>
+				<string>Dalai Lama</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>How many stars does the flag of China have?</string>
+			<key>CorrectAnswer</key>
+			<string>5</string>
+			<key>Answers</key>
+			<array>
+				<string>1</string>
+				<string>5</string>
+				<string>7</string>
+				<string>10</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Row</string>
+			<key>Question</key>
+			<string>A light year is a measure of time</string>
+			<key>CorrectAnswer</key>
+			<string>False</string>
+			<key>Answers</key>
+			<array>
+				<string>True</string>
+				<string>False</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Row</string>
+			<key>Question</key>
+			<string>Which side of the road do they drive on in the USA?</string>
+			<key>CorrectAnswer</key>
+			<string>Right</string>
+			<key>Answers</key>
+			<array>
+				<string>Right</string>
+				<string>Left</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>Which country&apos;s rugby union team goes by the name the &apos;All Blacks&apos;?</string>
+			<key>CorrectAnswer</key>
+			<string>New Zealand</string>
+			<key>Answers</key>
+			<array>
+				<string>South Africa</string>
+				<string>New Zealand</string>
+				<string>Australia</string>
+				<string>Argentina</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What does c stand for in Einstein&apos;s famous equation e=mc^2</string>
+			<key>CorrectAnswer</key>
+			<string>The speed of light</string>
+			<key>Answers</key>
+			<array>
+				<string>Energy</string>
+				<string>Mass</string>
+				<string>Charge</string>
+				<string>The speed of light</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>Santa Claus is also referred to as Saint ________</string>
+			<key>CorrectAnswer</key>
+			<string>Nicholas</string>
+			<key>Answers</key>
+			<array>
+				<string>Christopher</string>
+				<string>Bob</string>
+				<string>John</string>
+				<string>Nicholas</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>The chemical symbol Au represents which element?</string>
+			<key>CorrectAnswer</key>
+			<string>Gold</string>
+			<key>Answers</key>
+			<array>
+				<string>Silver</string>
+				<string>Magnesium</string>
+				<string>Gold</string>
+				<string>Platinum</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>Bromine is represented by which chemical symbol?</string>
+			<key>CorrectAnswer</key>
+			<string>Br</string>
+			<key>Answers</key>
+			<array>
+				<string>B</string>
+				<string>Ba</string>
+				<string>Br</string>
+				<string>Bi</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>How many strings does a guitar commonly have?</string>
+			<key>CorrectAnswer</key>
+			<string>6</string>
+			<key>Answers</key>
+			<array>
+				<string>4</string>
+				<string>5</string>
+				<string>6</string>
+				<string>7</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>Guacamole is made by crushing up</string>
+			<key>CorrectAnswer</key>
+			<string>Avocado</string>
+			<key>Answers</key>
+			<array>
+				<string>Guacamole Fruit</string>
+				<string>Avocado</string>
+				<string>Kohlrabi</string>
+				<string>Spring Onions</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What is the capital of South Korea?</string>
+			<key>CorrectAnswer</key>
+			<string>Seoul</string>
+			<key>Answers</key>
+			<array>
+				<string>Pohang</string>
+				<string>Shanghai</string>
+				<string>Seoul</string>
+				<string>Pyongyang</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What is the capital of Switzerland?</string>
+			<key>CorrectAnswer</key>
+			<string>Zurich</string>
+			<key>Answers</key>
+			<array>
+				<string>Geneva</string>
+				<string>Bern</string>
+				<string>Brussels</string>
+				<string>Zurich</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>Which of the following is a real psychological disorder?</string>
+			<key>CorrectAnswer</key>
+			<string>Stockholm Syndrome</string>
+			<key>Answers</key>
+			<array>
+				<string>Oslo Syndrome</string>
+				<string>Stockholm Syndrome</string>
+				<string>Seattle Syndrome</string>
+				<string>Singapore Syndrome</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>Which country has the worlds biggest population?</string>
+			<key>CorrectAnswer</key>
+			<string>China</string>
+			<key>Answers</key>
+			<array>
+				<string>India</string>
+				<string>China</string>
+				<string>Brazil</string>
+				<string>United States of America</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What is the most common language spoken in the Netherlands?</string>
+			<key>CorrectAnswer</key>
+			<string>Dutch</string>
+			<key>Answers</key>
+			<array>
+				<string>Deutsch</string>
+				<string>French</string>
+				<string>English</string>
+				<string>Dutch</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>How many bones are there in the human body?</string>
+			<key>CorrectAnswer</key>
+			<string>206</string>
+			<key>Answers</key>
+			<array>
+				<string>182</string>
+				<string>206</string>
+				<string>80</string>
+				<string>408</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What year did WW2 end?</string>
+			<key>CorrectAnswer</key>
+			<string>1945</string>
+			<key>Answers</key>
+			<array>
+				<string>1943</string>
+				<string>1945</string>
+				<string>1950</string>
+				<string>1952</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What language do they speak in Bolivia?</string>
+			<key>CorrectAnswer</key>
+			<string>Spanish</string>
+			<key>Answers</key>
+			<array>
+				<string>Spanish</string>
+				<string>Bolivian</string>
+				<string>Portugese</string>
+				<string>Peruvian</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What is a collection of fish called?</string>
+			<key>CorrectAnswer</key>
+			<string>A school</string>
+			<key>Answers</key>
+			<array>
+				<string>A gang</string>
+				<string>A team</string>
+				<string>A squad</string>
+				<string>A school</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Image</string>
+			<key>Image</key>
+			<string>rolling.jpeg</string>
+			<key>Question</key>
+			<string>Which band does this logo represent?</string>
+			<key>CorrectAnswer</key>
+			<string>The Rolling Stones</string>
+			<key>Answers</key>
+			<array>
+				<string>The Beatles</string>
+				<string>The Flaming Lips</string>
+				<string>The Who</string>
+				<string>The Rolling Stones</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>Which of these colours is NOT in the Google logo?</string>
+			<key>CorrectAnswer</key>
+			<string>Orange</string>
+			<key>Answers</key>
+			<array>
+				<string>Green</string>
+				<string>Red</string>
+				<string>Yellow</string>
+				<string>Orange</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What is the biggest muscle in the human body?</string>
+			<key>CorrectAnswer</key>
+			<string>Gluteus Maximus</string>
+			<key>Answers</key>
+			<array>
+				<string>Gluteus Maximus</string>
+				<string>Heart</string>
+				<string>Quadraceps</string>
+				<string>Brain</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What is the biggest bone in the human body?</string>
+			<key>CorrectAnswer</key>
+			<string>Femur</string>
+			<key>Answers</key>
+			<array>
+				<string>Femur</string>
+				<string>Tibia</string>
+				<string>Radius</string>
+				<string>Ulna</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>Which of these countries is not in Asia?</string>
+			<key>CorrectAnswer</key>
+			<string>Morocco</string>
+			<key>Answers</key>
+			<array>
+				<string>Saudi Arabia</string>
+				<string>Jordan</string>
+				<string>Mongolia</string>
+				<string>Morocco</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Image</string>
+			<key>Image</key>
+			<string>barca.jpg</string>
+			<key>Question</key>
+			<string>Which spanish city is this monument in?</string>
+			<key>CorrectAnswer</key>
+			<string>Barcelona</string>
+			<key>Answers</key>
+			<array>
+				<string>Madrid</string>
+				<string>Valencia</string>
+				<string>Sevilla</string>
+				<string>Barcelona</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Image</string>
+			<key>Image</key>
+			<string>louvre.jpg</string>
+			<key>Question</key>
+			<string>Which city is this monument in?</string>
+			<key>CorrectAnswer</key>
+			<string>Paris</string>
+			<key>Answers</key>
+			<array>
+				<string>Rome</string>
+				<string>Cairo</string>
+				<string>Paris</string>
+				<string>Stockholm</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>The Jamaican flag is green, yellow and _____</string>
+			<key>CorrectAnswer</key>
+			<string>Black</string>
+			<key>Answers</key>
+			<array>
+				<string>White</string>
+				<string>Red</string>
+				<string>Black</string>
+				<string>No more colours</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>The Bulgarian flag is red, green and _____</string>
+			<key>CorrectAnswer</key>
+			<string>White</string>
+			<key>Answers</key>
+			<array>
+				<string>White</string>
+				<string>Red</string>
+				<string>Black</string>
+				<string>No more colours</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What is the second official language of Canada?</string>
+			<key>CorrectAnswer</key>
+			<string>French</string>
+			<key>Answers</key>
+			<array>
+				<string>Spanish</string>
+				<string>Canadian</string>
+				<string>English</string>
+				<string>French</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Image</string>
+			<key>Image</key>
+			<string>st_basils.jpg</string>
+			<key>Question</key>
+			<string>Which city is this monument in?</string>
+			<key>CorrectAnswer</key>
+			<string>Moscow</string>
+			<key>Answers</key>
+			<array>
+				<string>Istanbul</string>
+				<string>Paris</string>
+				<string>Zurich</string>
+				<string>Moscow</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>Who is famous for popularising the theory of evolution by natural selection?</string>
+			<key>CorrectAnswer</key>
+			<string>Charles Darwin</string>
+			<key>Answers</key>
+			<array>
+				<string>Charles Darwin</string>
+				<string>Albert Einstein</string>
+				<string>Richard Dawkins</string>
+				<string>Alexander Fleming</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>Who was the first president of the United States of America?</string>
+			<key>CorrectAnswer</key>
+			<string>George Washington</string>
+			<key>Answers</key>
+			<array>
+				<string>Richard Nixon</string>
+				<string>John F. Kennedy</string>
+				<string>George Washington</string>
+				<string>Abraham Lincoln</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>Who was prime minister of the United Kingdom at the end of WW2?</string>
+			<key>CorrectAnswer</key>
+			<string>Winston Churchill</string>
+			<key>Answers</key>
+			<array>
+				<string>Tony Blair</string>
+				<string>Margaret Thatcher</string>
+				<string>Winston Churchill</string>
+				<string>Neville Chamberlain</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>How many rings are there in the olympic symbol?</string>
+			<key>CorrectAnswer</key>
+			<string>5</string>
+			<key>Answers</key>
+			<array>
+				<string>3</string>
+				<string>5</string>
+				<string>7</string>
+				<string>8</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Image</string>
+			<key>Image</key>
+			<string>pisa.jpg</string>
+			<key>Question</key>
+			<string>Which country is this in?</string>
+			<key>CorrectAnswer</key>
+			<string>Italy</string>
+			<key>Answers</key>
+			<array>
+				<string>France</string>
+				<string>Spain</string>
+				<string>Bulgaria</string>
+				<string>Italy</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What is the spanish for house?</string>
+			<key>CorrectAnswer</key>
+			<string>Casa</string>
+			<key>Answers</key>
+			<array>
+				<string>Maison</string>
+				<string>Haus</string>
+				<string>Houso</string>
+				<string>Casa</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Image</string>
+			<key>Image</key>
+			<string>cuba.png</string>
+			<key>Question</key>
+			<string>Which country does this flag represent?</string>
+			<key>CorrectAnswer</key>
+			<string>Cuba</string>
+			<key>Answers</key>
+			<array>
+				<string>Argentina</string>
+				<string>Panama</string>
+				<string>Cuba</string>
+				<string>Venezuela</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>Which animal is on the Ferrari logo?</string>
+			<key>CorrectAnswer</key>
+			<string>Horse</string>
+			<key>Answers</key>
+			<array>
+				<string>Horse</string>
+				<string>Bull</string>
+				<string>Lion</string>
+				<string>Jaguar</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What is the capital of Mexico?</string>
+			<key>CorrectAnswer</key>
+			<string>Mexico City</string>
+			<key>Answers</key>
+			<array>
+				<string>Cancún</string>
+				<string>Mexico City</string>
+				<string>Tijuana</string>
+				<string>Puebla</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Row</string>
+			<key>Question</key>
+			<string>The Vatican is a country</string>
+			<key>CorrectAnswer</key>
+			<string>True</string>
+			<key>Answers</key>
+			<array>
+				<string>True</string>
+				<string>False</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What is the capital of Brazil?</string>
+			<key>CorrectAnswer</key>
+			<string>Brasília</string>
+			<key>Answers</key>
+			<array>
+				<string>Brasília</string>
+				<string>São Paulo</string>
+				<string>Rio de Janeiro</string>
+				<string>Salvador</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Row</string>
+			<key>Question</key>
+			<string>The plural of sheep is sheep</string>
+			<key>CorrectAnswer</key>
+			<string>True</string>
+			<key>Answers</key>
+			<array>
+				<string>True</string>
+				<string>False</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What language do they speak in Brazil?</string>
+			<key>CorrectAnswer</key>
+			<string>Portugese</string>
+			<key>Answers</key>
+			<array>
+				<string>Spanish</string>
+				<string>Brazilian</string>
+				<string>Portugese</string>
+				<string>English</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>Which of these is not a prime number?</string>
+			<key>CorrectAnswer</key>
+			<string>6</string>
+			<key>Answers</key>
+			<array>
+				<string>2</string>
+				<string>3</string>
+				<string>6</string>
+				<string>7</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>Who invented Microsoft?</string>
+			<key>CorrectAnswer</key>
+			<string>Bill Gates</string>
+			<key>Answers</key>
+			<array>
+				<string>Larry Page</string>
+				<string>Bill Gates</string>
+				<string>Mark Zuckerberg</string>
+				<string>Steve Jobs</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What is the capital of Canada?</string>
+			<key>CorrectAnswer</key>
+			<string>Ottawa</string>
+			<key>Answers</key>
+			<array>
+				<string>Toronto</string>
+				<string>Ottawa</string>
+				<string>Vancouver</string>
+				<string>Quebec</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What do the angles of a triangle add up to? ( Degrees)</string>
+			<key>CorrectAnswer</key>
+			<string>180</string>
+			<key>Answers</key>
+			<array>
+				<string>90</string>
+				<string>180</string>
+				<string>270</string>
+				<string>360</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>How many stars are there on the USA&apos;s flag?</string>
+			<key>CorrectAnswer</key>
+			<string>50</string>
+			<key>Answers</key>
+			<array>
+				<string>48</string>
+				<string>50</string>
+				<string>52</string>
+				<string>100</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Image</string>
+			<key>Image</key>
+			<string>times_square.jpg</string>
+			<key>Question</key>
+			<string>What is the name of this place?</string>
+			<key>CorrectAnswer</key>
+			<string>Times Square</string>
+			<key>Answers</key>
+			<array>
+				<string>Leicester Square</string>
+				<string>Times Square</string>
+				<string>Tiananmen Square</string>
+				<string>Red Square</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What comes after the letter &apos;T&apos;?</string>
+			<key>CorrectAnswer</key>
+			<string>U</string>
+			<key>Answers</key>
+			<array>
+				<string>U</string>
+				<string>R</string>
+				<string>S</string>
+				<string>V</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What is the spelling of the word meaning &apos;the day after this one&apos;?</string>
+			<key>CorrectAnswer</key>
+			<string>Tomorrow</string>
+			<key>Answers</key>
+			<array>
+				<string>Tommorrow</string>
+				<string>Tomorrow</string>
+				<string>Tomorow</string>
+				<string>Tommorow</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Image</string>
+			<key>Image</key>
+			<string>golden.jpg</string>
+			<key>Question</key>
+			<string>Which city is the Golden Bridge in?</string>
+			<key>CorrectAnswer</key>
+			<string>San Francisco</string>
+			<key>Answers</key>
+			<array>
+				<string>San Francisco</string>
+				<string>San Diego</string>
+				<string>Chicago</string>
+				<string>New York</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Row</string>
+			<key>Question</key>
+			<string>The Great Wall of China is visible from space</string>
+			<key>CorrectAnswer</key>
+			<string>False</string>
+			<key>Answers</key>
+			<array>
+				<string>True</string>
+				<string>False</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Image</string>
+			<key>Image</key>
+			<string>jfk.jpg</string>
+			<key>Question</key>
+			<string>What is this man called?</string>
+			<key>CorrectAnswer</key>
+			<string>John F. Kennedy</string>
+			<key>Answers</key>
+			<array>
+				<string>Lyndon B. Johnson</string>
+				<string>George W. Bush</string>
+				<string>John F. Kennedy</string>
+				<string>Richard Nixon</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Image</string>
+			<key>Image</key>
+			<string>dubai.jpg</string>
+			<key>Question</key>
+			<string>Which city is this in?</string>
+			<key>CorrectAnswer</key>
+			<string>Dubai</string>
+			<key>Answers</key>
+			<array>
+				<string>Singapore</string>
+				<string>Monaco</string>
+				<string>Abu Dhabi</string>
+				<string>Dubai</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Row</string>
+			<key>Question</key>
+			<string>Dubai is a country</string>
+			<key>CorrectAnswer</key>
+			<string>False</string>
+			<key>Answers</key>
+			<array>
+				<string>True</string>
+				<string>False</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>What comes before the letter J in the alphabet?</string>
+			<key>CorrectAnswer</key>
+			<string>i</string>
+			<key>Answers</key>
+			<array>
+				<string>i</string>
+				<string>m</string>
+				<string>l</string>
+				<string>k</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Row</string>
+			<key>Question</key>
+			<string>Dinosaurs existed longer than humans have</string>
+			<key>CorrectAnswer</key>
+			<string>True</string>
+			<key>Answers</key>
+			<array>
+				<string>True</string>
+				<string>False</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
