@@ -1,8 +1,8 @@
 import UIKit
 import AVFoundation
-import iAd
+import GoogleMobileAds
 
-class MultipleChoiceViewController: UIViewController, ADBannerViewDelegate {
+class MultipleChoiceViewController: UIViewController{
     
     @IBOutlet var progressView: UIProgressView!
     
@@ -12,7 +12,7 @@ class MultipleChoiceViewController: UIViewController, ADBannerViewDelegate {
     
     @IBOutlet weak var imageView: UIImageView!
     
-    @IBOutlet weak var banner: ADBannerView!
+    @IBOutlet weak var bannerView: GADBannerView!
     
     @IBOutlet weak var quizProgress: UILabel!
     
@@ -136,13 +136,15 @@ class MultipleChoiceViewController: UIViewController, ADBannerViewDelegate {
             view.exclusiveTouch = true
         }
         
+        print("Google Mobile Ads SDK version: " + GADRequest.sdkVersion())
+        bannerView.adUnitID = "ca-app-pub-7187599761378654/1096329927"
+        bannerView.rootViewController = self
+        bannerView.loadRequest(GADRequest())
+        
         gameIsOver = false
         mcArray!.shuffle()
         setUpProgressBar()
         whichQuestionType()
-        setUpBanner()
-        
-        
 
     }
 
@@ -252,30 +254,6 @@ class MultipleChoiceViewController: UIViewController, ADBannerViewDelegate {
             indexOfView3 = num
         }
         view3.backgroundColor = colorArray[indexOfView3]
-    }
-    
-    func setUpBanner(){
-        //so that we don't have a white block whilst the ad is loading
-        banner.hidden = true
-        banner.delegate = self
-        self.canDisplayBannerAds = true
-    }
-    
-    
-    func bannerViewActionShouldBegin(banner: ADBannerView!, willLeaveApplication willLeave: Bool) -> Bool {
-        return true
-    }
-    
-    func bannerViewDidLoadAd(banner: ADBannerView!) {
-        banner.hidden = false
-    }
-    
-    func bannerViewWillLoadAd(banner: ADBannerView!) {
-        
-    }
-    
-    func bannerView(banner: ADBannerView!, didFailToReceiveAdWithError error: NSError!) {
-        NSLog("Error!")
     }
     
     func playSwoosh(mute: Bool){

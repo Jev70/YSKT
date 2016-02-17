@@ -15,12 +15,25 @@ class ViewController: UIViewController, GKGameCenterControllerDelegate {
     
     @IBOutlet weak var youShouldKnowThis: UILabel!
     
+    @IBOutlet weak var leaderboardButton: UIButton!
+    
+    @IBAction func leaderboardButton(sender: UIButton) {
+        let gcVC: GKGameCenterViewController = GKGameCenterViewController()
+        gcVC.gameCenterDelegate = self
+        gcVC.viewState = GKGameCenterViewControllerState.Leaderboards
+        gcVC.leaderboardIdentifier = "ysktleaderboard_01"
+        self.presentViewController(gcVC, animated: true, completion: nil)
+    }
+    
     var fullTestSelected: Bool!
     
     var audioPlayer = AVAudioPlayer()
     
     var gcEnabled = Bool() // Stores if the user has Game Center enabled
     var gcDefaultLeaderBoard = String() // Stores the default leaderboardID
+    
+    var highscorePercentage = NSUserDefaults.standardUserDefaults().doubleForKey("highscorePercentage")
+    var survivalHighscore  = NSUserDefaults.standardUserDefaults().integerForKey("survivalHighscore")
 
     @IBAction func fullTest(sender: UIButton) {
         playBop()
@@ -35,6 +48,11 @@ class ViewController: UIViewController, GKGameCenterControllerDelegate {
     }
     
     @IBAction func unwindToVC(segue: UIStoryboardSegue) {
+        //var view2:ViewController2 = segue.sourceViewController as ViewController2
+        var vc: ScoreViewController = segue.sourceViewController as! ScoreViewController
+        survivalHighscore = vc.survivalHighscore
+        highscorePercentage = vc.highscorePercentage
+        
     }
     
     func startGame(){
@@ -63,8 +81,6 @@ class ViewController: UIViewController, GKGameCenterControllerDelegate {
         super.viewWillAppear(true)
         
         navigationController?.setNavigationBarHidden(true, animated: false)
-        let highscorePercentage = NSUserDefaults.standardUserDefaults().doubleForKey("highscorePercentage")
-        let survivalHighscore  = NSUserDefaults.standardUserDefaults().integerForKey("survivalHighscore")
         
         let str = NSString(format: "%.0f", highscorePercentage)
         highscoreLabel.text = "Highscore: \(str)%"
@@ -89,6 +105,7 @@ class ViewController: UIViewController, GKGameCenterControllerDelegate {
         fullTestLabel.center.y = self.view.frame.height + 300
         survivalHighscoreLabel.center.y = self.view.frame.height + 300
         survivalLabel.center.y = self.view.frame.height + 300
+        self.leaderboardButton.center.y = self.view.frame.height + 300
         YSKT.center.y =  -300
         youShouldKnowThis.center.y =  -300
     }
@@ -118,6 +135,7 @@ class ViewController: UIViewController, GKGameCenterControllerDelegate {
             
             self.survivalLabel.center.y = self.view.frame.height / 2
             self.fullTestLabel.center.y = self.view.frame.height / 2
+            self.leaderboardButton.center.y = self.view.frame.height / 2
             
         }), completion: nil)
         

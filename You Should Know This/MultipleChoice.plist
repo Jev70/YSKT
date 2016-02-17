@@ -118,7 +118,7 @@
 			<string>New Delhi</string>
 			<key>Answers</key>
 			<array>
-				<string>Delhi</string>
+				<string>Kolkata</string>
 				<string>Mumbai</string>
 				<string>New Delhi</string>
 				<string>Bollywood</string>
@@ -1182,23 +1182,6 @@
 		</dict>
 		<dict>
 			<key>Type</key>
-			<string>Image</string>
-			<key>Image</key>
-			<string>cuba.png</string>
-			<key>Question</key>
-			<string>Which country does this flag represent?</string>
-			<key>CorrectAnswer</key>
-			<string>Cuba</string>
-			<key>Answers</key>
-			<array>
-				<string>Argentina</string>
-				<string>Panama</string>
-				<string>Cuba</string>
-				<string>Venezuela</string>
-			</array>
-		</dict>
-		<dict>
-			<key>Type</key>
 			<string>Multiple</string>
 			<key>Question</key>
 			<string>Which animal is on the Ferrari logo?</string>
@@ -1296,21 +1279,6 @@
 				<string>3</string>
 				<string>6</string>
 				<string>7</string>
-			</array>
-		</dict>
-		<dict>
-			<key>Type</key>
-			<string>Multiple</string>
-			<key>Question</key>
-			<string>Who invented Microsoft?</string>
-			<key>CorrectAnswer</key>
-			<string>Bill Gates</string>
-			<key>Answers</key>
-			<array>
-				<string>Larry Page</string>
-				<string>Bill Gates</string>
-				<string>Mark Zuckerberg</string>
-				<string>Steve Jobs</string>
 			</array>
 		</dict>
 		<dict>
@@ -1508,6 +1476,34 @@
 			<array>
 				<string>True</string>
 				<string>False</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Row</string>
+			<key>Question</key>
+			<string>Bangladesh is a city</string>
+			<key>CorrectAnswer</key>
+			<string>False</string>
+			<key>Answers</key>
+			<array>
+				<string>True</string>
+				<string>False</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>Multiple</string>
+			<key>Question</key>
+			<string>How many countries are there in the United Kingdom?</string>
+			<key>CorrectAnswer</key>
+			<string>4</string>
+			<key>Answers</key>
+			<array>
+				<string>1</string>
+				<string>3</string>
+				<string>4</string>
+				<string>5</string>
 			</array>
 		</dict>
 	</array>
